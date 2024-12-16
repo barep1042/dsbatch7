@@ -1,0 +1,1 @@
+//ini isinya coba1.js
